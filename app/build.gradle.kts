@@ -15,8 +15,8 @@ android {
         applicationId = "cn.xiaowine.current"
         minSdk = 26
         targetSdk = 33
-        versionCode = 2
-        versionName = "1.1.0"
+        versionCode = 3
+        versionName = "1.1.1"
         aaptOptions.cruncherEnabled = false
         aaptOptions.useNewCruncher = false
         buildConfigField("String", "BUILD_TIME", "\"$buildTime\"")

@@ -20,7 +20,7 @@ class SettingsActivity : Activity() {
             .replace(android.R.id.content, SettingsFragment())
             .commit()
         val textView = TextView(this).apply {
-            text = "不显示，就强行停止重新打开"
+            text = "不显示，就强行停止重新打开\nMiui和ColorOS魔改了系统的通知，导致无法显示\n可以安装模块恢复"
             gravity = Gravity.CENTER
         }
         setContentView(textView)
