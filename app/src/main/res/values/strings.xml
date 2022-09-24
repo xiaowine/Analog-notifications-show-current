@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">状态栏电流</string>
+    <string name="now_current">当前电流</string>
+    <string name="current_summary">显示电流，请勿修改选项</string>
+    <string name="rate">刷新频率</string>
+    <string name="current_text_size">电流字体大小</string>
+    <string name="current_unit_size">电流单位大小</string>
+    <string name="font_face">字体加粗</string>
+</resources>
